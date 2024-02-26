@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Thank you for stopping by my GitHub profile. I am a passionate software engineer who has been programming since high school. One this page you will find some of the projects I have worked on during my free time. You will find all sorts of different projects such as machine learning, react front end and augmented reality.
 
 <!--
 **VishalThakur17/VishalThakur17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
