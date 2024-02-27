@@ -1,4 +1,4 @@
-### Hi there 👋 Thank you for stopping by my GitHub profile. I am a passionate software engineer who has been programming since high school. One this page you will find some of the projects I have worked on during my free time. You will find all sorts of different projects such as machine learning, react front end and augmented reality.
+### Hi there 👋 Thank you for stopping by my GitHub profile. I am a passionate software engineer who has been programming since high school. One this page you will find some of the projects I have worked on during my free time. You will find all sorts of different projects on machine learning, react front end and augmented reality.
 
 ### 🧰 Languages and Tools
 
